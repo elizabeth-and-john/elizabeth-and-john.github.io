@@ -6,12 +6,16 @@ title: Elizabeth and John
 <img src="/assets/save_the_date.jpg" alt="Save the Date! Reserva este día!"
 style="width: 500px" />
 
-## Colorado wedding
-19 August, 2018
+| Colorado | Colombia |
+| :------------------: | :----------------: |
+| 19 August, 2018 | 8 September, 2018 |
+| Lyons, Colorado | Bogotá, Colombia |
 
-Lyons, CO
+### Where to stay
+Coming soon!
 
-## Bogotá wedding
-8 September, 2018
+### Travel information
+Coming soon!
 
-Bogotá, Colombia
+### Registry
+Coming soon!
