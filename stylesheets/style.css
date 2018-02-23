@@ -3,7 +3,8 @@ body {
   width: 800px;
   margin: 0 auto 0 auto;
   line-height:130%;
-  background-color:#ddd;
+  background-color:#dbd4bf;
+  color:#188;
 }
 
 a:link {
@@ -24,9 +25,15 @@ table {
   border-collapse: collapse;
 }
 
-table th, table td {
+table td {
   border-spacing: 0;
   padding: 4px 50px;
+}
+
+table th {
+  border-spacing: 0;
+  padding: 8px 50px;
+  font-size: 30px;
 }
 
 hr {
