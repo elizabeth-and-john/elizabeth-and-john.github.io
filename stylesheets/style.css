@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: "Esteban";
   width: 800px;
   margin: 0 auto 0 auto;
   line-height:130%;
@@ -15,9 +15,11 @@ a:visited {
 
 h1 a:visited, h1 a:link {
   text-decoration: none;
+  font-variant: small-caps;
 }
 
 h2, h3, h4, h5, h6 {
+  font-variant: small-caps;
 }
 
 table {
@@ -34,6 +36,7 @@ table th {
   border-spacing: 0;
   padding: 8px 50px;
   font-size: 30px;
+  font-variant: small-caps;
 }
 
 hr {
