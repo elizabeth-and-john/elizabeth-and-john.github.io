@@ -3,16 +3,15 @@ layout: layout
 title: Elizabeth and John
 ---
 
-# Lyons, CO, 19 August 2018
+# Lyons, Colorado &mdash; 19 August 2018
 
-### Where to Stay
 Boulder will be our home base for the Colorado celebration, and we encourage you
 to stay in town! Lyons is just 30 minutes north of Boulder, and halfway in
 between Boulder and Estes Park. (Estes Park is home to Rocky Mountain National
 Park, and also an option to consider when seeking accommodations.) We will have
 shuttles to and from Lyons on the 19th.
 
-#### Hotels
+### Where to Stay
 We have arrangements with the following hotels. (TODO: Add details)
   * Residence Inn Boulder
   * Courtyard Boulder

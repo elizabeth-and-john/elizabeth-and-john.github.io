@@ -3,7 +3,7 @@ layout: layout
 title: Elizabeth and John
 ---
 
-# Bogotá, Colombia, 8 September 2018
+# Bogotá, Colombia &mdash; 8 September 2018
 
 ### Where to Stay
 
