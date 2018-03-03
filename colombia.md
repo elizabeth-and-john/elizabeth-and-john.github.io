@@ -3,7 +3,7 @@ layout: layout
 title: Elizabeth and John
 ---
 
-# Bogotá, Colombia &mdash; 8 September 2018
+# Bogotá, Colombia &mdash; 8 septiembre 2018
 
 Bogotá is the capital and largest city in Colombia. At 8,600ft it is at a higher
 elevation than our Boulder celebration.

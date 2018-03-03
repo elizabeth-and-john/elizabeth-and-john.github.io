@@ -8,5 +8,5 @@ style="width: 500px" class="center" />
 
 | [Colorado](colorado.html) | [Colombia](colombia.html) |
 | :------------------: | :----------------: |
-| 19 August, 2018 | 8 September, 2018 |
+| 19 August, 2018 | 8 septiembre, 2018 |
 | Lyons, Colorado | Bogotá, Colombia |
