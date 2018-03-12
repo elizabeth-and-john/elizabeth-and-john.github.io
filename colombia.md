@@ -4,7 +4,7 @@ title: Elizabeth and John
 ---
 
 <div class="top_photos">
-<img src="assets/bay_bridge.jpg" style="height: 180px">
+<img src="assets/walking.jpg" style="height: 180px">
 <img src="assets/chautauqua.jpg" style="height: 180px">
 <img src="assets/playground.jpg" style="height: 180px">
 <img src="assets/steamboat.jpg" style="height: 180px">
