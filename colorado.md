@@ -3,6 +3,14 @@ layout: layout
 title: Elizabeth and John
 ---
 
+<div class="top_photos">
+<img src="assets/bw.jpg" style="height: 180px">
+<img src="assets/swings.jpg" style="height: 180px">
+<img src="assets/first_day_of_school.jpg" style="height: 180px">
+<img src="assets/walking.jpg" style="height: 180px">
+<img src="assets/great_divide.jpg" style="height: 180px">
+</div>
+
 # Lyons, Colorado &mdash; 19 August 2018
 
 <div class="row">
@@ -41,7 +49,7 @@ depart from and return to these hotels.</p>
   </div>
 </div>
 
-  * Boulder Marriott, 2660 Canyon Blvd,
+  * Boulder Marriott, 2660 Canyon Blvd, [book here](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Silva/Stechschulte%20Wedding%20%5Edenbo%60sdssdsg%7Csdssdsq%60249%60USD%60false%604%608/18/18%608/20/18%607/18/18&app=resvlink&stop_mobi=yes)
   * Hilton Garden Inn, 2701 Canyon Blvd, [discount code N0110175](https://secure3.hilton.com/en_US/gi/reservation/book.htm?ctyhocn=WBUBOGI&corporateCode=N0110175&from=lnrlink)
   * Embassy Suites, 2601 Canyon Blvd, [discount code 0560061264](https://secure3.hilton.com/en_US/es/reservation/book.htm?ctyhocn=DENBOES&corporateCode=0560061264&from=lnrlink)
   * Courtyard Boulder, 4710 Pearl East Circle, $189/night. Call Marriott
