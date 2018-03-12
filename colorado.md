@@ -33,7 +33,7 @@ title: Elizabeth and John
 
 <div class="row">
   <div class="column left">
-  <h3>Dónde hospedarse?</h3>
+  <h3>¿Dónde hospedarse?</h3>
 <p>Para su conveniencia hemos convenido descuentos con los siguientes hoteles en
 Boulder. El transporte hasta el lugar de la ceremonia saldrá y volverá de estos
 hoteles.</p>
