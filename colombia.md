@@ -8,7 +8,7 @@ title: Elizabeth and John
 <img src="assets/chautauqua.jpg" style="height: 180px">
 <img src="assets/playground.jpg" style="height: 180px">
 <img src="assets/steamboat.jpg" style="height: 180px">
-<img src="assets/winery.jpg" style="height: 180px">
+<img src="assets/great_divide.jpg" style="height: 180px">
 </div>
 
 # Bogotá, Colombia &mdash; 8 septiembre 2018

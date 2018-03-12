@@ -5,10 +5,10 @@ title: Elizabeth and John
 
 <div class="top_photos">
 <img src="assets/bw.jpg" style="height: 180px">
+<img src="assets/winery.jpg" style="height: 180px">
 <img src="assets/swings.jpg" style="height: 180px">
 <img src="assets/first_day_of_school.jpg" style="height: 180px">
 <img src="assets/walking.jpg" style="height: 180px">
-<img src="assets/great_divide.jpg" style="height: 180px">
 </div>
 
 # Lyons, Colorado &mdash; 19 August 2018
