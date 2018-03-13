@@ -42,8 +42,9 @@ hoteles.</p>
   </div>
   <div class="column right">
   <h3>Where to stay?</h3>
-<p>We arranged discounts with the following hotels. The shuttles on the 19th will
-depart from and return to these hotels.</p>
+<p>We arranged discounts with the hotels below. Please book by 18 July to
+receive the discount. The shuttles on the 19th will depart from and return to
+these hotels.</p>
 
 <p>If you prefer, there are also many great options on Airbnb.</p>
   </div>
@@ -52,7 +53,8 @@ depart from and return to these hotels.</p>
   * Boulder Marriott, 2660 Canyon Blvd, [book here](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Silva/Stechschulte%20Wedding%20%5Edenbo%60sdssdsg%7Csdssdsq%60249%60USD%60false%604%608/18/18%608/20/18%607/18/18&app=resvlink&stop_mobi=yes)
   * Hilton Garden Inn, 2701 Canyon Blvd, [discount code N0110175](https://secure3.hilton.com/en_US/gi/reservation/book.htm?ctyhocn=WBUBOGI&corporateCode=N0110175&from=lnrlink)
   * Embassy Suites, 2601 Canyon Blvd, [discount code 0560061264](https://secure3.hilton.com/en_US/es/reservation/book.htm?ctyhocn=DENBOES&corporateCode=0560061264&from=lnrlink)
-  * Courtyard Boulder, 4710 Pearl East Circle, $189/night. Call Marriott
+  * Courtyard Boulder, 4710 Pearl East Circle, [book
+    here](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Silva%20Diaz%20/%20Stechschulte%20Wedding%5EDENBD%60DSWDSWA%60189.00%60USD%60false%603%608/18/18%608/20/18%607/18/18&app=resvlink&stop_mobi=yes), $189/night. Call Marriott
     Reservations, 800-321-2211 or 303-440-4700 and identify yourself as part of
     the John Stechschulte group.
 
