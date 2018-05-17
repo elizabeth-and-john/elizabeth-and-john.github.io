@@ -33,6 +33,48 @@ title: Elizabeth and John
 
 <div class="row">
   <div class="column left">
+  <h3>Eventos</h3>
+  <h4>Picnic de bienvenida</h4>
+  <p>Sábado, 18 Agosto, 5:00 pm
+  <br>Eben G. Fine Park, 101 Arapahoe Ave., Boulder, CO.</p>
+
+  <h4>Ceremonía y recepción</h4>
+  <p>Domingo, 19 Agosto, 4:30 pm 
+  <br>The River Bend, 501 W. Main St., Lyons, CO.</p>
+
+  <h4>Desayuno de despedida</h4>
+  <p>Lunes, 20 Agosto, 9-11 am 
+  <br>Chautauqua Dining Hall, 900 Baseline Rd, Boulder, CO.</p>
+
+  <h4>Vestido</h4>
+  <p>Los eventos del fin de semana serán al aire libre, (Posibles cambios de
+  temperatura). Recuerden usar protector solar, y zapatos cómodos para caminar
+  en el prado. El traje para la boda es coctail.</p>
+  </div>
+
+  <div class="column right">
+  <h3>Events</h3>
+  <h4>Welcome picnic</h4>
+  <p>Saturday, 18 August, 5:00 pm
+  <br>Eben G. Fine Park, 101 Arapahoe Ave., Boulder, CO.</p>
+
+  <h4>Ceremony and reception</h4>
+  <p>Sunday, 19 August, 4:30 pm
+  <br>The River Bend, 501 W. Main St., Lyons, CO.</p>
+
+  <h4>Farewell brunch</h4>
+  <p>Monday, 20 August, 9-11 am
+  <br>Chautauqua Dining Hall, 900 Baseline Rd, Boulder, CO.</p>
+
+  <h4>Attire</h4>
+  <p>The weekend's events will be outside&mdash;remember sunscreen and wear
+  comfortable shoes for walking in grass. The wedding attire is mountain
+  chic.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
   <h3>¿Dónde hospedarse?</h3>
 <p>Para su conveniencia hemos convenido descuentos con los siguientes hoteles en
 Boulder. El transporte hasta el lugar de la ceremonia saldrá y volverá de estos
@@ -78,6 +120,28 @@ recorrer a pie o en bus.</p>
 <p>Denver International Airport is 45 minutes from Boulder. There is a good bus
 option to get to Boulder from the airport, and Boulder is easy to navigate by
 foot and bus.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+  <h3>Regalos</h3>
+  <p>&iexcl;El mejor regalo que podemos recibir para nuestra boda es la compania de
+  nuestra familia y amigos! Si les gustaría ayudarnos a completer nuestra
+  casita, tenemos listas de regalos en <a
+  href="https://www.macys.com/wgl/registry/guest/6935145">Macy's</a> y <a
+  href="https://www.crateandbarrel.com/gift-registry/elizabeth-silva-diaz-and-john-stechschulte/r5847328">Crate
+  and Barrel</a>.</p>
+
+  </div>
+  <div class="column right">
+  <h3>Our registry</h3>
+  <p>We appreciate our guests traveling to be with us at our wedding
+  celebrations, and your presence is present enough! If you would like to help
+  complete our home, we have registered at <a
+  href="https://www.macys.com/wgl/registry/guest/6935145">Macy's</a> and <a
+  href="https://www.crateandbarrel.com/gift-registry/elizabeth-silva-diaz-and-john-stechschulte/r5847328">Crate
+  and Barrel</a>.</p>
   </div>
 </div>
 
