@@ -44,7 +44,7 @@ title: Elizabeth and John
 
   <h4>Desayuno de despedida</h4>
   <p>Lunes, 20 Agosto, 9-11 am 
-  <br>Chautauqua Dining Hall, 900 Baseline Rd, Boulder, CO.</p>
+  <br>The Boulder Dushanbe Teahouse, 1770 13th St., Boulder, CO.</p>
 
   <h4>Vestido</h4>
   <p>Los eventos del fin de semana serán al aire libre, (Posibles cambios de
@@ -64,7 +64,7 @@ title: Elizabeth and John
 
   <h4>Farewell brunch</h4>
   <p>Monday, 20 August, 9-11 am
-  <br>Chautauqua Dining Hall, 900 Baseline Rd, Boulder, CO.</p>
+  <br>The Boulder Dushanbe Teahouse, 1770 13th St., Boulder, CO.</p>
 
   <h4>Attire</h4>
   <p>The weekend's events will be outside&mdash;remember sunscreen and wear
